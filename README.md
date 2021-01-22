@@ -3,7 +3,7 @@
 
 <h3>About Me</h3>
 
-- 🔭 I’m currently working on [Graph Generator](https://github.com/gernyataro/Graph-Generator)
+- 🔭 I’m currently reading [Code Complete by Steve McConnell](https://www.oreilly.com/library/view/code-complete-second/0735619670/)
 
 - 🌱 I’m currently learning **OpenGL, Qt**
 
