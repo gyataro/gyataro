@@ -13,4 +13,4 @@
 
 - ⚡ Fun fact: **I write like H. G. Wells, check yours: https://iwl.me/**  
 <h3>Stats</h3>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gyataro&show_icons=true&locale=en" alt="gyataro" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gyataro&show_icons=true&locale=en&bg_color=0000&theme=tokyonight" alt="gyataro" /></p>
