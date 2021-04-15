@@ -3,9 +3,9 @@
 
 <h3>About Me</h3>
 
-- 🔭 I’m currently reading [Code Complete by Steve McConnell](https://www.oreilly.com/library/view/code-complete-second/0735619670/)
+- 🔭 I’m currently reading [Computer Systems: A Programmer's Perspective](https://www.pearson.com/us/higher-education/program/Bryant-Computer-Systems-A-Programmer-s-Perspective-3rd-Edition/PGM2476825.html)
 
-- 🌱 I’m currently learning **OpenGL, Qt**
+- 🌱 I’m currently learning **y86 Assembly, Linux Kernel Hacking**
 
 - 🛠️ I‘m actively maintaining [Weathery Weather App](https://github.com/gernyataro/Weathery-Weather-App)
 
