@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently reading [Computer Systems: A Programmer's Perspective](https://www.pearson.com/us/higher-education/program/Bryant-Computer-Systems-A-Programmer-s-Perspective-3rd-Edition/PGM2476825.html)
 
-- 🌱 I’m currently learning **y86 Assembly, Linux Kernel Hacking**
+- 🌱 I’m currently learning **OpenGL, OpenCV** and some **GAN** stuff
 
-- 🛠️ I‘m actively maintaining [Weathery Weather App](https://github.com/gernyataro/Weathery-Weather-App)
+- 🛠️ I‘m working on a full-stack e-commerce project (private repo)
 
 - 📫 You can reach me via **teoh6g@gmail.com**
 
